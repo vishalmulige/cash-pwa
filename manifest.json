@@ -1,17 +1,20 @@
 {
-  "id": "./",
-  "name": "Cash — Personal Finance",
+  "name": "Cash - Khata & Loans",
   "short_name": "Cash",
-  "description": "A private personal lending and Khata workspace.",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0b100e",
-  "theme_color": "#0b100e",
-  "categories": ["finance", "productivity"],
+  "background_color": "#071b16",
+  "theme_color": "#071b16",
   "icons": [
-    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
-    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
